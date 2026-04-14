@@ -13,60 +13,77 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# JARVIS - Virtual Assistant (Python)
+<h1 align="center">Hi 👋, I'm Digvijay Bhapkar</h1>
+<h3 align="center">🚀 Passionate Software Developer | Data Analyst | AI Enthusiast</h3>
 
-## 📌 Description
-JARVIS is a Python-based virtual assistant inspired by AI systems. It can perform basic tasks like opening applications, searching information, and interacting with users through voice or text commands.
+---
 
-## 🚀 Features
-- Voice command recognition  
-- Text-to-speech response  
-- Open applications (browser, files, etc.)  
-- Search information on the internet  
-- Perform basic system tasks  
+## 💫 About Me
+- 🎓 BE in Information Technology (SPPU)  
+- 💡 Strong interest in Python, Data Analysis & AI  
+- 🤖 Built projects like **JARVIS Virtual Assistant**, Payroll System & Movie Recommendation System  
+- 📊 Experience as **Data Analyst Intern at YBI Foundation**  
+- 🧠 Love solving real-world problems using tech  
 
-## 🛠️ Tech Stack
-- Language: Python  
-- Libraries: SpeechRecognition, pyttsx3, os, webbrowser  
-- Tools: VS Code / Python IDE  
+---
 
-## 📂 Project Structure
-/jarvis-virtual-assistant  
-│── main.py  
-│── commands.py  
-│── requirements.txt  
+## ⚡ Tech Stack
 
-## ⚙️ Installation
-1. Clone the repository  
-git clone https://github.com/your-username/jarvis-virtual-assistant.git  
+### 👨‍💻 Languages
+`Python` `Java` `JavaScript` `SQL`
 
-2. Open the folder  
-cd jarvis-virtual-assistant  
+### 🌐 Web Development
+`HTML` `CSS` `JavaScript`
 
-3. Install dependencies  
-pip install -r requirements.txt  
+### 📊 Data & Tools
+`Power BI` `Excel` `Data Analysis` `Machine Learning Basics`
 
-4. Run the project  
-python main.py  
+---
 
-## 📸 Screenshots
-(Add screenshots of your assistant running)
+## 🚀 Featured Project
+### 🤖 JARVIS - Virtual Assistant
+- Voice + Text based assistant  
+- Performs system tasks & web search  
+- Built using Python libraries like SpeechRecognition & pyttsx3  
 
-## 🎯 Usage
-- Run the program  
-- Give voice or text commands  
-- JARVIS will respond and perform tasks  
+---
 
-## 🤝 Contributing
-Contributions are welcome. Feel free to fork and enhance the assistant.
+## 📈 GitHub Stats
 
-## 📄 License
-This project is licensed under the MIT License.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+</p>
 
-## 👨‍💻 Author
-**Digvijay Bhapkar**  
-- BE in Information Technology (SPPU)  
-- Skills: Python, SQL, Java, Data Analysis  
-- Experience: Data Analyst Intern at YBI Foundation  
-- Built projects in AI, Web Development, and Data Analytics  
-- GitHub: https://github.com/your-username  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Achievements
+- 🥇 Top 100 in KPIT Sparkle (RC Car Project)  
+- 🎯 Certifications: KPIT, Tata Imagination, Power BI  
+- 💻 Participated in Hackathons & Coding Competitions  
+
+---
+
+## 📬 Connect With Me
+- 💼 LinkedIn: (Add your link)  
+- 💻 GitHub: https://github.com/your-username  
+
+---
+
+## 💡 Quote
+> “Code. Learn. Build. Repeat.” 🚀

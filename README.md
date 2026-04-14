@@ -50,19 +50,6 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digvijay1807&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digvijay1807&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay1807&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Contribution Graph
 

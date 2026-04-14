@@ -51,15 +51,15 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=digvijay1807&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digvijay1807&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay1807&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijay1807&theme=tokyo-night" />
 </p>
 
 ---

@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Digvijay%20Bhapkar&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/digvijay1807" target="_blank">
+<a href="https://www.linkedin.com/in/digvijay-bhapkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/digvijay1807" target="_blank">
@@ -13,7 +13,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" alt="coding gif"/>
 
 <p>
 Hello There! <b>I'm Digvijay Bhapkar</b>, a BE IT graduate from Pune 🇮🇳.  
@@ -22,11 +22,11 @@ Currently focused on AI, Data Analysis & Software Development.
 </p>
 
 <p align="center">
-   🎓 BE IT Graduate (2025) <br/>
-   💻 Software Developer & Data Analyst <br/>
-   🤖 Interested in AI & Machine Learning <br/>
-   📊 Experience: Data Analyst Intern @ YBI Foundation <br/>
-   🚀 Built: JARVIS Assistant, Payroll System, Movie Recommender <br/>
+🎓 BE IT Graduate (2025) <br/>
+💻 Software Developer & Data Analyst <br/>
+🤖 Interested in AI & Machine Learning <br/>
+📊 Data Analyst Intern @ YBI Foundation <br/>
+🚀 Built: JARVIS Assistant, Payroll System, Movie Recommender
 </p>
 
 ---
@@ -40,7 +40,7 @@ Currently focused on AI, Data Analysis & Software Development.
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=green" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -51,9 +51,11 @@ Currently focused on AI, Data Analysis & Software Development.
 
 <div align="center"> 
 
-<img src="https://streak-stats.demolab.com/?user=digvijay1807&theme=dark&background=000000&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" /><br/><br/>
+<img src="https://streak-stats.demolab.com/?user=digvijay1807&theme=dark&background=000000&hide_border=false" /><br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=digvijay1807&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /><br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay1807&layout=compact&theme=tokyonight" /><br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijay1807&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 

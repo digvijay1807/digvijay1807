@@ -1,74 +1,57 @@
-<h1 align="center">Hi 👋, I'm Digvijay Bhapkar</h1>
-<h3 align="center">🚀 Software Developer | 📊 Data Analyst | 🤖 AI Enthusiast</h3>
+<img src="./imgs/githubanner.png"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=digvijay1807&label=Profile%20views&color=0e75b6&style=flat" />
+<a href="https://www.linkedin.com/in/digvijay1807/?skipRedirect=true" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 </p>
 
----
 
-## 💫 About Me
-- 🎓 BE in Information Technology (SPPU - 2025)
-- 📍 Pune, India  
-- 💡 Passionate about Python, Data Analytics & AI  
-- 🤖 Built **JARVIS Virtual Assistant**, Payroll System, Movie Recommendation System  
-- 📊 Data Analyst Intern at **YBI Foundation**  
-- 🧠 Love solving real-world problems using data & automation  
+<br>
 
----
+<h2 align="center"> <img src="./imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-## ⚡ Tech Stack
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right"/>
 
-### 👨‍💻 Languages
-`Python` `Java` `JavaScript` `SQL`
+<br/>
 
-### 🌐 Web Development
-`HTML` `CSS` `JavaScript`
 
-### 📊 Data & Tools
-`Power BI` `Excel` `Pandas` `NumPy` `Machine Learning`
 
----
-
-## 🚀 Featured Project
-
-### 🤖 JARVIS - Virtual Assistant
-- 🎤 Voice + Text controlled assistant  
-- ⚙️ Automates system tasks & web search  
-- 🧠 Built using `SpeechRecognition`, `pyttsx3`, `Python`  
-
----
-
-## 📈 GitHub Stats
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digvijay1807&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay1807&layout=compact&theme=tokyonight" />
+   <em><b> 🎓 Computer Science Student</b></em> <br/>
+   <em><b> 💻 Interested in Web Development & Databases </b></em><br/>
+   <em><b> 🧠 Learning SQL, C++, and Backend Development </b></em><br/>
+   <img src="./imgs/img1.png" width="15"/>   <br/>
 </p>
 
----
+<br/>
+<br/>
 
-## 🔥 Contribution Graph
+<h2 align="center"> <img src="./imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=digvijay1807&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijay1807&theme=tokyo-night" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<br/><br/>
 
-## 🏆 Achievements
-- 🥇 Top 100 – KPIT Sparkle (RC Car Project)  
-- 🎯 Certifications: KPIT, Tata Imagination, Power BI  
-- 💻 Hackathons & Coding Competitions Participant  
+<p align="center">
+  <h2 align="center""> <img src="./imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
----
+</div>
 
-## 📬 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
-- 💻 GitHub: https://github.com/digvijay1807  
 
----
+<div align = "center"> 
 
-## 💡 Quote
-> 🚀 *Code. Learn. Build. Repeat.*
+![GitHub Streak](https://streak-stats.demolab.com/?user=SiddharthBorekar&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijay1807&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+</div>

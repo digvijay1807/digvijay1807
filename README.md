@@ -1,29 +1,19 @@
-
-<!--
-**digvijay1807/digvijay1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Digvijay Bhapkar</h1>
-<h3 align="center">🚀 Passionate Software Developer | Data Analyst | AI Enthusiast</h3>
+<h3 align="center">🚀 Software Developer | 📊 Data Analyst | 🤖 AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=digvijay1807&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 💫 About Me
-- 🎓 BE in Information Technology (SPPU)  
-- 💡 Strong interest in Python, Data Analysis & AI  
-- 🤖 Built projects like **JARVIS Virtual Assistant**, Payroll System & Movie Recommendation System  
-- 📊 Experience as **Data Analyst Intern at YBI Foundation**  
-- 🧠 Love solving real-world problems using tech  
+- 🎓 BE in Information Technology (SPPU - 2025)
+- 📍 Pune, India  
+- 💡 Passionate about Python, Data Analytics & AI  
+- 🤖 Built **JARVIS Virtual Assistant**, Payroll System, Movie Recommendation System  
+- 📊 Data Analyst Intern at **YBI Foundation**  
+- 🧠 Love solving real-world problems using data & automation  
 
 ---
 
@@ -36,43 +26,49 @@ Here are some ideas to get you started:
 `HTML` `CSS` `JavaScript`
 
 ### 📊 Data & Tools
-`Power BI` `Excel` `Data Analysis` `Machine Learning Basics`
+`Power BI` `Excel` `Pandas` `NumPy` `Machine Learning`
 
 ---
 
 ## 🚀 Featured Project
+
 ### 🤖 JARVIS - Virtual Assistant
-- Voice + Text based assistant  
-- Performs system tasks & web search  
-- Built using Python libraries like SpeechRecognition & pyttsx3  
+- 🎤 Voice + Text controlled assistant  
+- ⚙️ Automates system tasks & web search  
+- 🧠 Built using `SpeechRecognition`, `pyttsx3`, `Python`  
 
 ---
 
 ## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=digvijay1807&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay1807&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 🔥 Contribution Graph
 
 <p align="center">
-
- [![GitHub Streak](https://streak-stats.demolab.com/?user=digvijay1807&theme=dark)](https://git.io/streak-stats) 
+  <img src="https://streak-stats.demolab.com/?user=digvijay1807&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijay1807&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🏆 Achievements
-- 🥇 Top 100 in KPIT Sparkle (RC Car Project)  
+- 🥇 Top 100 – KPIT Sparkle (RC Car Project)  
 - 🎯 Certifications: KPIT, Tata Imagination, Power BI  
-- 💻 Participated in Hackathons & Coding Competitions  
+- 💻 Hackathons & Coding Competitions Participant  
 
 ---
 
 ## 📬 Connect With Me
-- 💼 LinkedIn: (Add your link)  
-- 💻 GitHub: https://github.com/your-username  
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
+- 💻 GitHub: https://github.com/digvijay1807  
 
 ---
 
 ## 💡 Quote
-> “Code. Learn. Build. Repeat.” 🚀
+> 🚀 *Code. Learn. Build. Repeat.*

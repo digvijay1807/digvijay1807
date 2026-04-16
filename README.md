@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 ## 🔥 Contribution Graph
 
 <p align="center">
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=digvijay1807&theme=dark)](https://git.io/streak-stats) 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijay1807&theme=tokyo-night" />
 </p>
 

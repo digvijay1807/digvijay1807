@@ -13,11 +13,13 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" alt="coding gif"/>
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
+</p>
 
-<p>
-Hello There! <b>I'm Digvijay Bhapkar</b>, a BE IT graduate from Pune 🇮🇳.  
-I enjoy building real-world projects using Python and Data Analytics.  
+<p align="center">
+Hello There! <b>I'm Digvijay Bhapkar</b>, a BE IT graduate from Pune 🇮🇳.<br/>
+I enjoy building real-world projects using Python and Data Analytics.<br/>
 Currently focused on AI, Data Analysis & Software Development.
 </p>
 
@@ -35,7 +37,7 @@ Currently focused on AI, Data Analysis & Software Development.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
@@ -49,17 +51,15 @@ Currently focused on AI, Data Analysis & Software Development.
 
 <h2 align="center">📊 Statistics</h2>
 
-<div align="center"> 
-
-<img src="https://streak-stats.demolab.com/?user=digvijay1807&theme=dark&background=000000&hide_border=false" /><br/><br/>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=digvijay1807&theme=dark&background=000000&hide_border=true" /><br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=digvijay1807&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /><br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay1807&layout=compact&theme=tokyonight" /><br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijay1807&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijay1807&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+</p>
 
 ---
 

@@ -49,14 +49,6 @@ Currently focused on AI, Data Analysis & Software Development.
 
 ---
 
-<h2 align="center">📊 Statistics</h2>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=digvijay1807&theme=dark&background=000000&hide_border=true" /><br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=digvijay1807&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /><br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay1807&layout=compact&theme=tokyonight" /><br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijay1807&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 </p>
